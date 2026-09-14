@@ -1,66 +1,66 @@
-# Hi there! 👋 I'm vete2
+# Oi! 👋 Sou o vete2
 
-Welcome to my GitHub profile! I'm a passionate student developer exploring the intersection of programming and artificial intelligence.
-
----
-
-## 🚀 About Me
-
-I'm a student on a journey to master programming with AI. My coding adventure started by accident, but it sparked a genuine passion for building elegant solutions and understanding how technology works. I believe in continuous learning and leveraging AI as a powerful tool to enhance my development skills.
+Bem-vindo ao meu perfil do GitHub! Sou um estudante desenvolvedor apaixonado explorando a interseção entre programação e inteligência artificial.
 
 ---
 
-## 💻 Top Skills & Expertise
+## 🚀 Sobre Mim
 
-- **Languages**: Python, JavaScript, TypeScript, Java
-- **AI & ML**: Machine Learning, Large Language Models (LLMs), Prompt Engineering, TensorFlow, PyTorch
-- **Web Development**: React, Node.js, REST APIs, Full-stack Development
-- **Tools & Platforms**: Git, VS Code, Jupyter Notebooks, Docker, Linux
-- **AI-Assisted Development**: GitHub Copilot, AI-powered debugging, Generative AI integration
+Sou um estudante em jornada para dominar programação com IA. Minha aventura na codificação começou por acaso, mas despertou uma paixão genuína por construir soluções elegantes e entender como a tecnologia funciona. Acredito em aprendizado contínuo e em aproveitar a IA como uma ferramenta poderosa para aprimorar minhas habilidades de desenvolvimento.
 
 ---
 
-## 🎯 Current Focus
+## 💻 Principais Habilidades & Expertise
 
-My main goal is to **master programming skills through the lens of artificial intelligence**. I'm dedicated to:
-- Deepening my understanding of core programming principles
-- Exploring how AI can enhance my coding practices
-- Building projects that leverage AI technologies
-- Contributing to the intersection of traditional programming and modern AI
-
----
-
-## 🌱 Learning Path
-
-- Advanced Python & AI/ML frameworks
-- Building AI-powered applications
-- Understanding neural networks and deep learning
-- Prompt engineering and working with large language models
-- Cloud computing and scalable AI solutions
+- **Linguagens**: Python, JavaScript, TypeScript, Java
+- **IA & ML**: Aprendizado de Máquina, Modelos de Linguagem Grande (LLMs), Engenharia de Prompts, TensorFlow, PyTorch
+- **Desenvolvimento Web**: React, Node.js, APIs REST, Desenvolvimento Full-stack
+- **Ferramentas & Plataformas**: Git, VS Code, Jupyter Notebooks, Docker, Linux
+- **Desenvolvimento Assistido por IA**: GitHub Copilot, Depuração assistida por IA, Integração de IA Generativa
 
 ---
 
-## ✨ Fun Facts
+## 🎯 Foco Principal
 
-- I accidentally learned to program, but it's become my greatest passion! 🎯
-- I believe AI is not a replacement for programming skills, but a powerful ally
-- Always looking for creative ways to solve problems with code
-- Coffee-driven student developer ☕
+Meu objetivo principal é **dominar habilidades de programação através da lente da inteligência artificial**. Sou dedicado a:
+- Aprofundar minha compreensão dos princípios fundamentais de programação
+- Explorar como a IA pode aprimorar minhas práticas de codificação
+- Construir projetos que aproveitam tecnologias de IA
+- Contribuir na interseção entre programação tradicional e IA moderna
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Caminho de Aprendizado
+
+- Python avançado & frameworks de IA/ML
+- Construindo aplicações alimentadas por IA
+- Entendendo redes neurais e aprendizado profundo
+- Engenharia de prompts e trabalho com modelos de linguagem grande
+- Computação em nuvem e soluções de IA escaláveis
+
+---
+
+## ✨ Curiosidades Divertidas
+
+- Aprendi a programar por acaso, mas virou minha maior paixão! 🎯
+- Acredito que IA não é substituta para habilidades de programação, mas uma aliada poderosa
+- Sempre buscando formas criativas de resolver problemas com código
+- Estudante desenvolvedor movido a café ☕
+
+---
+
+## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vete2&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vete2&layout=compact&theme=radical)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=vete2&layout=compact&theme=radical)
 
 ---
 
-## 💭 Philosophy
+## 💭 Filosofia
 
-> "Programming with AI isn't about letting machines do the work—it's about becoming a better programmer through intelligent collaboration."
+> "Programar com IA não é deixar máquinas fazerem o trabalho—é se tornar um programador melhor através da colaboração inteligente."
 
 ---
 
-*Thanks for visiting! Explore my repositories to see what I'm learning and building. Feel free to check out my code journey!*
+*Obrigado pela visita! Explore meus repositórios para ver minha jornada de aprendizado e construção. Sinta-se livre para conferir meu código!*
