@@ -1,6 +1,6 @@
-# Oi! 👋 Sou o vete2
+# Oi! 👋 Sou o Victor
 
-Bem-vindo ao meu perfil do GitHub! Sou um estudante desenvolvedor apaixonado explorando a interseção entre programação e inteligência artificial.
+Bem-vindo ao meu perfil do GitHub! Sou um estudante desenvolvedor explorando a programação.
 
 ---
 
@@ -37,15 +37,6 @@ Meu objetivo principal é **dominar habilidades de programação através da len
 - Entendendo redes neurais e aprendizado profundo
 - Engenharia de prompts e trabalho com modelos de linguagem grande
 - Computação em nuvem e soluções de IA escaláveis
-
----
-
-## ✨ Curiosidades Divertidas
-
-- Aprendi a programar por acaso, mas virou minha maior paixão! 🎯
-- Acredito que IA não é substituta para habilidades de programação, mas uma aliada poderosa
-- Sempre buscando formas criativas de resolver problemas com código
-- Estudante desenvolvedor movido a café ☕
 
 ---
 
